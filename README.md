@@ -6,7 +6,7 @@ In this repo, you will find the [manim](https://www.manim.community/) code that 
 
 ## The Cubic Formula. Wait what!?
 
-[![The Cubic Formula. Wait what!?](https://img.youtube.com/vi/XMJhE-kSGjc/0.jpg)](https://www.youtube.com/watch?v=XMJhE-kSGjc)
+[![The Cubic Formula. Wait what!?](https://img.youtube.com/vi/XMJhE-kSGjc/maxresdefault.jpg)](https://www.youtube.com/watch?v=XMJhE-kSGjc)
 
 [Youtube Video](https://youtu.be/XMJhE-kSGjc)
 
@@ -16,7 +16,7 @@ _Due to some challenges with running the animations on Colab, I ran everything l
 
 ## Understanding the Quadratic Equation | Completing the square
 
-[![Understanding the Quadratic Equation](https://img.youtube.com/vi/v2eu2ba_j3k/0.jpg)](https://www.youtube.com/watch?v=v2eu2ba_j3k)
+[![Understanding the Quadratic Equation](https://img.youtube.com/vi/v2eu2ba_j3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=v2eu2ba_j3k)
 
 [Youtube Video](https://youtu.be/v2eu2ba_j3k) | [**COLAB NOTEBOOK**](https://colab.research.google.com/drive/1Jq4KEWVYjwlUKOV_zWpie6nij0SZ1Lg7)
 
@@ -25,7 +25,7 @@ _Due to some challenges with running the animations on Colab, I ran everything l
 
 ## Visualizing Convolutional Neural Networks && Training a CNN
 
-[![Visualizing Convolutional Neural Networks && Training a CNN](https://img.youtube.com/vi/2nrrzIx_i4g/0.jpg)](https://www.youtube.com/watch?v=2nrrzIx_i4g) [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JboZfxUjLSk/0.jpg)](https://www.youtube.com/watch?v=JboZfxUjLSk)
+[![Visualizing Convolutional Neural Networks && Training a CNN](https://img.youtube.com/vi/2nrrzIx_i4g/maxresdefault.jpg)](https://www.youtube.com/watch?v=2nrrzIx_i4g) [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JboZfxUjLSk/maxresdefault.jpg)](https://www.youtube.com/watch?v=JboZfxUjLSk)
 
 [Video - Training a CNN](https://youtu.be/2nrrzIx_i4g) | [Video - Training a CNN](https://youtu.be/2nrrzIx_i4g) | [**COLAB NOTEBOOK**](https://colab.research.google.com/drive/1yxo834FnhfW_gs-Tp51k3HwNkeDQo_li)
 
@@ -40,7 +40,7 @@ _For visualizing the training process, you will need to run the notebook once fo
 
 ## Convolutional Neural Networks from Scratch | In Depth
 
-[![Convolutional Neural Networks from Scratch | In Depth](https://img.youtube.com/vi/jDe5BAsT2-Y/0.jpg)]
+[![Convolutional Neural Networks from Scratch | In Depth](https://img.youtube.com/vi/jDe5BAsT2-Y/maxresdefault.jpg)]
 
 [Youtube Video](https://youtu.be/jDe5BAsT2-Y) | [**COLAB NOTEBOOK**](https://colab.research.google.com/drive/1NqOqh99Hl3CdsQtrAzgcwGpRZNZir0gp?usp=sharing)
 
@@ -55,6 +55,6 @@ _It might be better to run this locally on your computer if your hardware allows
 
 ## Backpropagation in Convolutional Neural Networks CNNs
 
-[![Backpropagation in Convolutional Neural Networks CNNs](https://img.youtube.com/vi/z9hJzduHToc/0.jpg)](https://www.youtube.com/watch?v=z9hJzduHToc)
+[![Backpropagation in Convolutional Neural Networks CNNs](https://img.youtube.com/vi/z9hJzduHToc/maxresdefault.jpg)](https://www.youtube.com/watch?v=z9hJzduHToc)
 
 [Youtube Video](https://youtu.be/z9hJzduHToc) | [**COLAB NOTEBOOK**](https://colab.research.google.com/drive/1v97V9D-Q1l_wvIKO1klcChnL0LDZRPWQ)
