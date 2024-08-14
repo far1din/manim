@@ -27,7 +27,7 @@ _Due to some challenges with running the animations on Colab, I ran everything l
 
 [![Visualizing Convolutional Neural Networks && Training a CNN](https://img.youtube.com/vi/2nrrzIx_i4g/maxresdefault.jpg)](https://www.youtube.com/watch?v=2nrrzIx_i4g) [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JboZfxUjLSk/maxresdefault.jpg)](https://www.youtube.com/watch?v=JboZfxUjLSk)
 
-[Video - Training a CNN](https://youtu.be/2nrrzIx_i4g) | [Video - Training a CNN](https://youtu.be/2nrrzIx_i4g) | [**COLAB NOTEBOOK**](https://colab.research.google.com/drive/1yxo834FnhfW_gs-Tp51k3HwNkeDQo_li)
+[Video - Training a CNN](https://youtu.be/2nrrzIx_i4g) | [**COLAB NOTEBOOK**](https://colab.research.google.com/drive/1yxo834FnhfW_gs-Tp51k3HwNkeDQo_li)
 
 1. Find the model weights [here](https://github.com/far1din/manim/tree/main/visualizing-and-training-a-cnn) under the respective folder. For example, "0_epochs_0.0676" stands for 0 epochs (untrained) with a 6.76% accuracy.
 2. Let's say you want to run the model with 0 epochs. Go into the [folder](https://github.com/far1din/manim/tree/main/visualizing-and-training-a-cnn/0_epochs_0.0676) and download M.data-00000-of-00001 and M.index.
