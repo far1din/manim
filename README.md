@@ -1,4 +1,4 @@
-# Manim Code for Videos by [@far1din](https://www.youtube.com/@far1din619)
+# Manim Code for Videos by [@far1din](https://www.youtube.com/@far1din)
 
 In this repo, you will find the [manim](https://www.manim.community/) code that I have used in order to create my videos. [Manim](https://www.manim.community/) is a great tool for "programatic animation" and it allows for creating beautiful animations. The code is python, and you can run it locally or on a jupyter notebook. I personally run it on colab due to the convenience of it! 😃
 </br>
